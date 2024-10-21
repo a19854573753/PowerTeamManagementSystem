@@ -5,7 +5,7 @@
 # 108.PowerTeamManagementSystem
 
 <p>抠: 206157502(sql文件)</p>
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 
 <p><h1 align="center">108.团队管理系统</h1></p>
 
